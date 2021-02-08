@@ -3,4 +3,11 @@ Adding a couple
 of lines
 
 
-This is clearly another mistake!! A BIGGER ONE!!!
+
+HERE ARE SOME errors
+asdf
+
+asdfasdf
+a
+fasdfaasdfadfs
+
